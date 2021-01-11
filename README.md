@@ -12,7 +12,7 @@ I created this as a way of quickly deleting the pipeline library cache for Cyber
 If deleting this cache file helps with making the game work for you, then this is a easy tool that makes that process quicker if you delete it frequently.
 
 ## Setup
-To use this batch file place it where ever you like. Executing the file will ask you if you wish to delete the cache or not. Saying no terminates to tool, and saying yes attempts to delete the cache file respectively.
+To use this batch file place it where ever you like. Executing the file will ask you if you wish to delete the cache or not. Saying no terminates the tool, and saying yes attempts to delete the cache file respectively.
 
 ## Author / Licence
 Copyright 2021 by SegamanXero under the GNU General Public License v3.0
